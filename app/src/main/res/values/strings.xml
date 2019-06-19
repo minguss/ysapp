@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YonseiApp</string>
+    <string name="title_activity_store_manager">StoreManagerActivity</string>
+    <string name="title_activity_store_add">StoreAddActivity</string>
+    <string name="title_activity_layout_topbar_store">layout_topbar_store</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
